@@ -1,0 +1,19 @@
+{
+  "name": "risklab-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --strictPort",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-is": "^19.1.0",
+    "recharts": "^3.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
